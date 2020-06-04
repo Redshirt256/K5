@@ -94,7 +94,7 @@ body {
 	.div3 {
 		font-size: 100px;
 		text-align: center;
-		background: linear-gradient(35deg, rgba(60,111,165,07) 45%, rgb(129, 129, 129,0.7) 55%);
+		background: linear-gradient(35deg, rgba(60,111,165,1) 45%, rgb(129, 129, 129,0.7) 55%);
 	}
 	.button {
 		text-decoration: none;
@@ -112,7 +112,6 @@ body {
 
 	ul {
 		list-style: none;
-		text-align: ;
 		padding: 0px;
 	}
 	li {
