@@ -54,6 +54,7 @@ background: linear-gradient(35deg, rgba(60,111,165,1) 70%, rgba(255,255,255,1) 7
   */
 
 body {
+	overflow-x:hidden;
 	background-color: whitesmoke;
 }
   .parent {
